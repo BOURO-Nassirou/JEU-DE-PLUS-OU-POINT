@@ -1,0 +1,6 @@
+#include "1_JOUEUR_F.h"
+#include "1_JOUEUR_M.h"
+#include "1_JOUEUR_D.h"
+#include "2_JOUEUR_F.h"
+#include "2_JOUEUR_M.h"
+#include "2_JOUEUR_D.h"
